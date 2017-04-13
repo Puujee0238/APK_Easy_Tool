@@ -1,1 +1,1 @@
-APKEasyTool;1.36;https://raw.githubusercontent.com/evildog1/APK_Easy_Tool/master/APK%20Easy%20Tool.exe
+APKEasyTool;1.37;https://raw.githubusercontent.com/evildog1/APK_Easy_Tool/master/APK%20Easy%20Tool.exe
